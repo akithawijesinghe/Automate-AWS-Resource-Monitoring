@@ -4,15 +4,15 @@ This project is designed to automate the process of listing AWS resources and se
 
 ## Features
 
-    - Lists AWS resources (e.g., EC2 instances, S3 buckets, etc.)
-    - Sends resource reports via email using Gmail
-    - Automates daily execution with a cron job
+- Lists AWS resources (e.g., EC2 instances, S3 buckets, etc.)
+- Sends resource reports via email using Gmail
+- Automates daily execution with a cron job
 
 ## Prerequisites
 
-    - AWS EC2 instance
-    - AWS CLI installed and configured
-    - SMTP client (msmtp) installed for sending emails
+- AWS EC2 instance
+- AWS CLI installed and configured
+- SMTP client (msmtp) installed for sending emails
 
 
 ### Step 1: Check AWS Resources List
